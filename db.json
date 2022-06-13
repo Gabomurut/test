@@ -1,11 +1,49 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"status": "success",
+"response": [
+{
+"id": "01",
+"name": "HUANUCO"
+},
+{
+"id": "02",
+"name": "AMBO"
+},
+{
+"id": "03",
+"name": "DOS DE MAYO"
+},
+{
+"id": "04",
+"name": "HUACAYBAMBA"
+},
+{
+"id": "05",
+"name": "HUAMALIES"
+},
+{
+"id": "06",
+"name": "LEONCIO PRADO"
+},
+{
+"id": "07",
+"name": "MARAÑON"
+},
+{
+"id": "08",
+"name": "PACHITEA"
+},
+{
+"id": "09",
+"name": "PUERTO INCA"
+},
+{
+"id": "10",
+"name": "LAURICOCHA"
+},
+{
+"id": "11",
+"name": "YAROWILCA"
+}
+]
 }
